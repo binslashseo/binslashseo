@@ -6,4 +6,5 @@
 - a text editor written in c or python
 - a floating X11 window manager
 - a system info fetching utility
+
 that's about it. peace and have fun ❤️️
